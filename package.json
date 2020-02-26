@@ -1,0 +1,12 @@
+{
+  "name": "graphr-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ."
+  },
+  "dependencies": {
+    "graphr": "../graphr"
+  }
+}
